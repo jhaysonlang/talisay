@@ -1,0 +1,2 @@
+- display ng amenities pag mag check-out.
+- reprint SOA
